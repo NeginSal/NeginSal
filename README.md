@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Accounts:
+
+   stackoverfloe: https://stackoverflow.com/users/14493830/negin
+  
+   fide: https://ratings.fide.com/profile/32711522
+  
+   sololearn: https://www.sololearn.com/Profile/11157461
