@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Accounts:
 
-   stackoverfloe: https://stackoverflow.com/users/14493830/negin
+   stackoverflow: https://stackoverflow.com/users/14493830/negin
   
    fide: https://ratings.fide.com/profile/32711522
   
