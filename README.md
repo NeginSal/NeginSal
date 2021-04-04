@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <img src="logo.jpg" width="100%">
+  
 - 🌱 [FIDE](https://ratings.fide.com/profile/32711522)
+
 - 🔭 [stackoverflow](https://stackoverflow.com/users/14493830/negin?tab=profile)
 
 - 😄 [Lichess](https://lichess.org/@/Negin007)
