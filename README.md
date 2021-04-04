@@ -22,6 +22,6 @@ Accounts:
   
    sololearn: https://www.sololearn.com/Profile/11157461
    
-  ![GitHub Logo](logo.jpg)
+  
   <img src="logo.jpg" width="100%">
 
