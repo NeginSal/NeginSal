@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <img src="logo.jpg" width="100%">
-  - 🌱 [FIDE](https://ratings.fide.com/profile/32711522)
+- 🌱 [FIDE](https://ratings.fide.com/profile/32711522)
+- 🔭 [stackoverflow](https://stackoverflow.com/users/14493830/negin?tab=profile)
 
 - 😄 [Lichess](https://lichess.org/@/Negin007)
 
 - 👨‍💻 [SoloLearn](https://www.sololearn.com/Profile/11157461)
 
 
-- <h3 align="left">Accounts:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/negin-saljooghi-06835b174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/negin-saljooghi-06835b174/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14493830/negin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14493830/negin" height="30" width="40" /></a>
-</p>
 
