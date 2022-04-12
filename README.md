@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Negin</h1>
-<h3 align="center">Professional chessplayer and Frontend developer</h3>
+<h3>Hi,I'm Negin 👋</h3>
+<h4>Professional chessplayer and Developer 🍀</h4>
 
 <!--
 **NeginSal/NeginSal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="logo.jpg" width="100%">
 -->
-  <img src="logo.jpg" width="100%">
+
+ <h6/> 📫  How to reach me: </h6>
   
-- 🌱 [FIDE](https://ratings.fide.com/profile/32711522)
+   - 👨‍💻  [StackOverflow](https://stackoverflow.com/users/14493830/negin?tab=profile)
 
-- 🔭 [stackoverflow](https://stackoverflow.com/users/14493830/negin?tab=profile)
+   - 🏆 [FIDE](https://ratings.fide.com/profile/32711522)
 
-- 😄 [Lichess](https://lichess.org/@/Negin007)
+   - ♟️  [Lichess](https://lichess.org/@/Negin007)
 
-- 👨‍💻 [SoloLearn](https://www.sololearn.com/Profile/11157461)
+   - ✏️  [SoloLearn](https://www.sololearn.com/Profile/11157461)
+
+   - 🌍 [Duolingo](https://www.duolingo.com/profile/Negin007)
+
+   - 📷 [Pexels](https://www.pexels.com/@negin-sal-184981949)
+
+
+
 
 
 
